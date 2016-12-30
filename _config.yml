@@ -27,7 +27,7 @@ customize:
         url: /images/apple-touch-icon.png
         gravator: false
     social_links:
-        github: http://github.com/mguellsegarra/cactus-marc
+        github: http://github.com/mguellsegarra
         twitter: http://twitter.com/mguellsegarra
         linkedin: https://es.linkedin.com/in/marc-güell-segarra-511a5566
     post_count: 5
