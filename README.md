@@ -1,4 +1,4 @@
-# Cactus Dark
+# Cactus Marc
 
 A responsive, *light-olive* and simple [Hexo](http://hexo.io) theme for a personal website.
 
