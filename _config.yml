@@ -2,9 +2,9 @@ nav:
   Home: /
   About: /about/
   Writing: /archives/
-  Projects: http://github.com/probberechts
+  Projects: http://github.com/mguellsegarra
 
-projects_url: http://github.com/probberechts
+projects_url: http://github.com/mguellsegarra
 
 customize:
     gravatar:
@@ -27,10 +27,9 @@ customize:
         url: /images/apple-touch-icon.png
         gravator: false
     social_links:
-        github: http://github.com/probberechts/cactus-dark
-        twitter: /
-        facebook: /
-        linkedin: /
+        github: http://github.com/probberechts/cactus-marc
+        twitter: http://twitter.com/mguellsegarra
+        linkedin: https://es.linkedin.com/in/marc-güell-segarra-511a5566
     post_count: 5
     highlight: rainbow
 
@@ -39,7 +38,7 @@ rss: false
 
 # Plugins
 plugins:
-    disqus_shortname: # Disqus Comments Shortname
+    disqus_shortname: mguellsegarra-blog # Disqus Comments Shortname
     google_analytics: UA-86660611-1 # enter the tracking ID for your Google Analytics
 
 # Miscellaneous

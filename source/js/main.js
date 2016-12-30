@@ -8,7 +8,7 @@ if (!!$.prototype.justifiedGallery) {  // if justifiedGallery method is defined
 }
 
 $(document).ready(function(){
-  $("#menu-icon, #menu-icon-tablet").click(function(){
+    $("#menu-icon, #menu-icon-tablet").click(function(){
     if ( $('#menu').css('visibility') == 'hidden' ) {
       $('#menu').css('visibility','visible');
       $('#menu-icon, #menu-icon-tablet').addClass('active');
@@ -80,4 +80,6 @@ $(document).ready(function(){
     }
     });
   }
+
+  $("#menu-icon").click();
 });
