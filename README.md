@@ -9,7 +9,7 @@ Originally created by [Pieter Robberechts](https://github.com/probberechts) in [
 
 :cactus: [Demo](https://mguellsegarra.github.io)  
 
-![cactus-dark](https://cloud.githubusercontent.com/assets/2175271/19885143/62e9269c-a01d-11e6-8e26-e36a36201d88.png)
+![cactus-dark](https://github.com/mguellsegarra/cactus-marc/blob/master/source/images/screenshot.png?raw=true)
 
 ## Summary
 
