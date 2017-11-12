@@ -1,10 +1,10 @@
 # Cactus Marc
 
-A responsive, *light-olive* and simple [Hexo](http://hexo.io) theme for a personal website.
+A responsive, *light-ocean* and simple [Hexo](http://hexo.io) theme for a personal website.
 
 Originally created by [Pieter Robberechts](https://github.com/probberechts) in [cactus-dark](https://github.com/probberechts/cactus-dark), just my own customization. Things I've tweaked:
 
-- Light background with olive color decorations
+- Light background with ocean color decorations
 - Set the menu and navigation bar visible in the post view
 
 :cactus: [Demo](https://mguellsegarra.github.io)  
@@ -21,7 +21,7 @@ Originally created by [Pieter Robberechts](https://github.com/probberechts) in [
 
 ## General
 
-- **Version** : 1.0
+- **Version** : 1.1
 - **Compatibility** : Hexo 3 or later
 
 ## Features
